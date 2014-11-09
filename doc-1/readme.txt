@@ -5,7 +5,8 @@ int
 
 {
 
-printf ("Two plus two is %f\n", 4);
+ int i=2+2;
+printf ("Two plus two is %f\n", i);
 
 return 0;
 
